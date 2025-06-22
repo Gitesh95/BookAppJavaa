@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Light gray background, similar to Google Search -->
+    <solid android:color="#F1F3F4" />
+
+    <!-- Fully rounded corners -->
+    <corners android:radius="28dp" />
+
+    <!-- Optional: subtle border -->
+    <stroke
+        android:width="1dp"
+        android:color="#E0E0E0" />
+</shape>
